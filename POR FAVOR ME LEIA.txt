@@ -17,3 +17,10 @@ Por momento o jogo parece mais um rascunho de
 Flap Bird do que o super mario kkkkk
 
 É isso, até mais professor!!!
+
+Tenho que deixar dito que esse repositório foi criado
+no dia de hoje sim 24/11/2021, afinal, tudo que eu
+coloco a mão da errado e ali pelas tantas meu git
+não estava funcionando corretamentem então resolvi 
+criar um novo repositório e fazer push do que tinha
+nas breanch's antigas!!!
