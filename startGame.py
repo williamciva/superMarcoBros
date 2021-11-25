@@ -9,7 +9,7 @@ tprint('SUPER   MARCOS   BROS')
 tprint('\n\n\n')
 tprint(' Obs:   Essa   e   apenas \n uma   versao   em   desolvimento')
 print('\n\n')
-tprint('Atualizações   em   breve!!!')
+tprint('Atualizacoes   em   breve!!!')
 input('press enter to continue')
 os.system('cls')
 
